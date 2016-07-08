@@ -1,0 +1,56 @@
+body {
+	padding-top: 50px;
+	color: #959595;
+	}
+	
+h1, h2, h3, h4, h5, h6 {
+	color: black;
+	}
+	
+.feature {
+	background-color: white;
+	color: green;
+	}
+	
+.article-intro {
+    margin-bottom: 25px;
+}
+
+.footer-blurb {
+    padding: 30px 0;
+    background-color: white;
+    color: black;
+}
+    
+.footer-blurb-item {
+    padding: 30px;
+    }
+ 
+.small-print {
+	background-color: #fff;
+	padding: 30px 0;
+}
+
+
+.cloud {
+	//border:2px solid #3366cc;
+	background-color:#FFF;
+	width:100%;
+	font-family:Arial; 
+	text-align:center;
+	margin-top:15px;
+	padding:50px;
+}
+
+.gallery {
+	padding:10px;	
+}
+
+.main-image {
+	text-align:center;
+	padding-bottom:20px;	
+}
+
+.img-detail {
+	padding:10px;		
+}

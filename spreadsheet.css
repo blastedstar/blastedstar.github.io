@@ -1,0 +1,187 @@
+html {
+    overflow: none;
+    margin: 0;
+}
+body {
+    width: 100%;
+    background-color: white;
+    margin: 0;
+    overflow: none;
+}
+
+h1{
+    
+    font-family:sans-serif,serif;
+    color:dodgerblue;
+    font-size: 80px;
+    margin-top: 20px;
+}
+
+td{
+    
+    text-align: center;
+    width: 1%;
+   
+}
+
+
+
+table{
+    
+    background-color: lightgray;
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0;
+    
+}
+h1{
+    
+    background-color:floralwhite;
+    font-family: 'Lobster';
+}
+
+
+table a {
+    font-family:sans-serif;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+    width: 100%;
+    display: block;
+}
+li a {
+    
+    text-decoration: none;
+    target= "_blank";
+    
+}
+a{
+      text-decoration: none;
+    target= "_blank";
+    
+}
+td:hover{
+
+    background-color: gray;
+    
+}
+h3{
+    
+    font-family: 'Lobster Two';
+    font-size:60px;
+    color:red;
+}
+#hometext{
+    
+    font-size: 80px;
+    text-align: center;
+    color: red;
+     background: -webkit-linear-gradient(lightyellow, red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#mainimage {
+    width: 800px; 
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.homeimage{
+    width: 200px; 
+    right: 0;
+    position: absolute;
+    
+}
+
+.whichcomputerp{
+    font-size: 17px;
+    
+}
+
+#wheretobuypicture {
+    
+    right: 0;
+    position: absolute;
+}
+
+li a:link{
+    
+    color:blue;
+}
+li a:visited{
+    
+    color:blue;
+}
+
+li a:hover{
+    
+    color:darkblue;
+    
+}
+
+li a:active{
+    
+    color:green;
+}
+
+p {
+    
+    
+    font-family: Futura, Arial;
+    font-size: 19px;
+}
+pre {
+    
+     font-family: Futura, Arial;
+    font-size: 19px;
+    
+}
+li a{
+    font-family: sans-serif, serif;
+    
+}
+
+ul {
+    position: absolute;
+    margin-top: auto;
+    
+}
+
+pre a {
+    
+    text-decoration: none;
+    
+    
+}
+
+pre a:link{
+    
+    color:blue;
+}
+pre a:visited{
+    
+    color:blue;
+}
+
+pre a:hover{
+    
+    color:darkblue;
+    
+}
+
+pre a:active{
+    
+    color:green;
+}
+
+#mainimage2{
+       width: 600px; 
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
